@@ -14,7 +14,7 @@ Loop 100
 
 Send, {Ctrl Down}w{Ctrl Up}
 Sleep, 360000
-Run, Chrome.exe https://www.instagram.com/jrbobinho10/
+Run, Chrome.exe *Link para a pagina ou video*
 Sleep, 5000
 Send {Click Left}
 Sleep 5000
