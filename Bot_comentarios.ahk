@@ -5,7 +5,7 @@ Loop 100
    {
 	Send {Click Left}
 	Sleep 500
-	Send 😂
+	Send @fabinhasouza_
 	Sleep 200
 	Send {Enter Down} {Enter Up}
 	Sleep 5000
@@ -14,7 +14,7 @@ Loop 100
 
 Send, {Ctrl Down}w{Ctrl Up}
 Sleep, 360000
-Run, Chrome.exe *Link para a pagina ou video*
+Run, Chrome.exe *https://www.instagram.com/iankacristini/*
 Sleep, 5000
 Send {Click Left}
 Sleep 5000
